@@ -27,7 +27,7 @@ x = df.drop(['Ind_ID','EMAIL_ID','label'],axis=1)
 
 y = df['label']
 
-xtrain , xtest , ytrain , ytest = train_test_split(x,y,test_size=0.3)
+xtrain , xtest , ytrain , ytest = train_test_split(x,y,test_size=0.2)
 
 # Model 
 
