@@ -1,0 +1,2 @@
+# Credict Card Approval Prediction Using Docker Image [visit](https://hub.docker.com/repository/docker/praveendecode/credict-card-approval-prediction/general)
+Deploy this Docker image for streamlined credit prediction. Utilize machine learning models and data analysis to assess creditworthiness, aiding financial institutions and individuals in making informed decisions. Easy, efficient, and reliable
