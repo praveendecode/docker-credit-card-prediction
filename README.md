@@ -23,13 +23,13 @@
 
 ## Technical Steps
 
-    1. **Data Preparation:** The project uses a dataset (cdata.csv) containing relevant features for credit prediction.
+    1. Data Preparation: The project uses a dataset (cdata.csv) containing relevant features for credit prediction.
     
-    2. **Model Training:** It employs a Random Forest Classifier to train the credit approval prediction model.
+    2. Model Training: It employs a Random Forest Classifier to train the credit approval prediction model.
     
-    3. **Model Testing:** The model is tested for accuracy using a test dataset.
+    3. Model Testing:  The model is tested for accuracy using a test dataset.
     
-    4. **User Input Prediction:** Users can input their values to test whether a loan application would be approved or rejected.
+    4. User Input Prediction: Users can input their values to test whether a loan application would be approved or rejected.
 
 ## Methods
 
